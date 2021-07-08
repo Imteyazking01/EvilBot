@@ -1,4 +1,4 @@
-<h1 align=center>😈EVIL BOT😈</h1>
+<h1 align=center>😈KING FIGHTER CHAT BOT 😈</h1>
 <img src = "https://telegra.ph/file/18a98ba6a9c9134b1ab0a.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
