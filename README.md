@@ -1,16 +1,16 @@
 <h1 align=center>😈KING FIGHTER CHAT BOT 😈</h1>
-<img src = "https://telegra.ph/file/18a98ba6a9c9134b1ab0a.jpg">
+<img src = "https://telegra.ph/file/9dc114d477293fe5eaa55.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shrvan42/EvilBot)</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imteyazking01/KING-FIGHTER-CHAT-BOT)</p>
 <H2 align=center>___________</h2>
 
 ## Starting the bot.
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m EvilBot`
+`python3 -m Kingbot`
 
 
 ### Configuration
