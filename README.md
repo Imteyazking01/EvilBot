@@ -1,5 +1,5 @@
 <h1 align=center>😈EVIL BOT😈</h1>
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+<img src = "https://telegra.ph/file/18a98ba6a9c9134b1ab0a.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
